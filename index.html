@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1 align="center">
+    UNIT CONVERTER
+  </h1>
+  <br>
+  <button onclick="showScreen('Temperature')">Temperature</button>
+  <button onclick="showScreen('Area')"> Area</button>
+  <button onclick="showScreen('Weight')">Weight</button>
+  <button onclick="showScreen('Distance')"> Distance </button>
+  <br>
+  <div id="screen1">
+    <div id="Temperature" class="screen">
+      <br>
+      <label for="celsius">Celsius:</label>
+      <input type="number" id="celsius" oninput="convertTemp()">
+      <span>&deg;C</span>
+      <br><br>
+      <label for="fahrenheit">Fahrenheit:</label>
+      <input type="number" id="fahrenheit" oninput="convertTemp()">
+      <span>&deg;F</span>
+
+    </div>
+
+    <div id="Weight" class="screen">
+      <br>
+      <label for="pounds">Pounds:</label>
+
+      <input type="number" id="pounds" oninput="convertWeight()">
+      <span>Pounds</span>
+      <br><br>
+      <label for="kilograms">Kilograms:</label>
+      <input type="number" id="kilograms" oninput="convertWeight()">
+      <span>Kilograms</span>
+    </div>
+
+    <div id="Area" class="screen">
+      <br>
+      <label for="squaremeters">Square Meters:</label>
+      <input type="number" id="squaremeters" oninput="convertArea()">
+      <span>Square Meters</span>
+      <br><br>
+
+      <label for="squarefeet">Square Feet:</label>
+      <input type="number" id="squarefeet" oninput="convertArea()">
+      <span>Square Feet</span>
+      <br><br>
+
+      <label for="squarekilometers">Square Kilometers:</label>
+      <input type="number" id="squarekilometers" oninput="convertArea()">
+      <span>Square Kilometers</span>
+    </div>
+
+    <div id="Distance" class="screen">
+      <br>
+      <label for="miles">Miles:</label>
+      <input type="number" id="miles" oninput="convertDistance()">
+      <span>Miles</span>
+      <br><br>
+      <label for="kilometers">Kilometers:</label>
+      <input type="number" id="kilometers" oninput="convertDistance()">
+      <span>Kilometers</span>
+      <br><br>
+
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
