@@ -15,7 +15,7 @@ Welcome to my official web development internship portfolio! This repository com
 ## 📜 Official Certificate
 Below is the completion certificate issued by Codes On Bytes for fulfilling all web development project requirements:
 
-![Codes On Bytes Internship Certificate](certificate.jpg)
+![Codes On Bytes Internship Certificate](Certificate.png)
 
 ---
 
