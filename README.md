@@ -35,7 +35,7 @@ Below is the completion certificate issued by Codes On Bytes for fulfilling all 
 
 * **Task 2: To-Do List Application**
   * *Description:* An interactive task tracker that allows users to dynamically add, mark complete, and delete daily tasks using JavaScript.
-  * *👉 View Code Branch:* [Go to To-Do List Branch](https://github.com)
+  * *👉 View Code Branch:* [Go to To-Do List Branch](https://github.com/Anveshsshetty/Cob_Webdev/tree/todo-list)
 
 ---
 
@@ -43,11 +43,11 @@ Below is the completion certificate issued by Codes On Bytes for fulfilling all 
 
 * **Task 1: Unit Converter Utility**
   * *Description:* A functional frontend calculation tool supporting real-time unit conversions across Length, Temperature, Weight, and Time.
-  * *👉 View Code Branch:* [Go to Unit Converter Branch](https://github.com)
+  * *👉 View Code Branch:* [Go to Unit Converter Branch](https://github.com/Anveshsshetty/Cob_Webdev/tree/todo-list)
 
 * **Task 2: E-commerce Website Landing Page**
   * *Description:* A modern, conversion-focused landing page optimized for retail products with interactive navigation elements.
-  * *👉 View Code Branch:* [Go to E-Commerce Landing Page Branch](https://github.com)
+  * *👉 View Code Branch:* [Go to E-Commerce Landing Page Branch](https://github.com/Anveshsshetty/Cob_Webdev/tree/todo-list)
 
 ---
 
