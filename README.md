@@ -31,7 +31,7 @@ Below is the completion certificate issued by Codes On Bytes for fulfilling all 
 
 * **Task 1: Registration / SignUp Form**
   * *Description:* A fully responsive user registration interface featuring clean custom CSS layouts and client-side form validation.
-  * *👉 View Code Branch:* [Go to Registration Form Branch](https://github.com)
+  * *👉 View Code Branch:* [Go to Registration Form Branch]([https://github.com](https://github.com/Anveshsshetty/Cob_Webdev/tree/registration-form))
 
 * **Task 2: To-Do List Application**
   * *Description:* An interactive task tracker that allows users to dynamically add, mark complete, and delete daily tasks using JavaScript.
